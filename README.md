@@ -1,4 +1,5 @@
 # apnacollege-demoz-
 this is my first Git Repository.
 <br>
-Author - Dipa Das
+Author - Dipa Das(Dipta)
+
